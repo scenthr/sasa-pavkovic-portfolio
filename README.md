@@ -14,13 +14,13 @@ This portfolio's projects apply machine learning within a data science context t
 
 Project portfolio is organized so that there are smaller projects organized into sections based on where they fall in the Data Science process.
 
-##### 1. Import - Getting the data from the original Resource
+##### 1. Import - Getting the data from the original resource
 
-  1. [Using pandas to import data](https://github.com/scenthr/sasa-pavkovic-portfolio/blob/master/panda-import-structured-data/pandas-import-structured-data.ipynb)
+  - <a href="https://github.com/scenthr/sasa-pavkovic-portfolio/blob/master/panda-import-structured-data/pandas-import-structured-data.ipynb" target="_blank">Using pandas to import data</a>
 
-##### 2. Store - Store the data into a data Store
+##### 2. Store - Store the data into a data store
 
-##### 3. Extract - Get the data from the data Store
+##### 3. Extract - Get the data from the data store
 
 ##### 4. Organize - Organize the data into usable subsets
 
@@ -47,5 +47,7 @@ Project portfolio is organized so that there are smaller projects organized into
 Sasa Pavkovic
 
 e-mail: scenthr@gmail.com
+
 portfolio: https://github.com/scenthr/sasa-pavkovic-portfolio
+
 LinkedIn: https://www.linkedin.com/in/sasapavkovic/
