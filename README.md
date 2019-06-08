@@ -16,6 +16,8 @@ Project portfolio is organized so that there are smaller projects organized into
 
 ##### 1. Import - Getting the data from the original Resource
 
+  1. [Using pandas to import data](https://github.com/scenthr/sasa-pavkovic-portfolio/blob/master/panda-import-structured-data/pandas-import-structured-data.ipynb)
+
 ##### 2. Store - Store the data into a data Store
 
 ##### 3. Extract - Get the data from the data Store
