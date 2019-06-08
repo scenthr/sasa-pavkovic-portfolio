@@ -19,10 +19,11 @@ Project portfolio is organized so that there are smaller projects organized into
   - <a href="https://github.com/scenthr/sasa-pavkovic-portfolio/blob/master/panda-import-structured-data/pandas-import-structured-data.ipynb" target="_blank">Using pandas to import data</a>
 
 ##### 2. Store - Store the data into a data store
-  - [Storing imported data into a RDBMs]()
+  - [Storing and retrieving imported data into a RDBMs](https://github.com/scenthr/sasa-pavkovic-portfolio/blob/master/storing-retrieving-data-sql-lite/storing-retrieving-data-sql-lite.ipynb)
 
 ##### 3. Extract - Get the data from the data store
   - [Aggregating and extracting data from RDBMS]()
+  - [Retrieving data from AWS S3 bucket]()
 
 ##### 4. Organize - Organize the data into usable subsets
 
