@@ -32,7 +32,7 @@ Project portfolio is organized so that there are smaller projects organized into
 
 ##### 6. Transform - Change the data into something your program will understand
   - [Encoding the categorical features](https://github.com/scenthr/sasa-pavkovic-portfolio/blob/master/encoding-categorical-features/encoding-categorical-features.ipynb)
-  - [Scaling and normalizing the features]()
+  - [Scaling and normalizing the features](https://github.com/scenthr/sasa-pavkovic-portfolio/blob/master/scaling-normalizing-features/scaling-normalizing-features.ipynb)
   - [Using data pipelines for data transformation]()
 
 ##### 7. Visualize - Descriptive statistics exploration
