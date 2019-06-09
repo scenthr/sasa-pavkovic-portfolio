@@ -28,10 +28,10 @@ Project portfolio is organized so that there are smaller projects organized into
 ##### 4. Organize - Organize the data into usable subsets
 
 ##### 5. Tidy - Clean the data
-  - [Checking the data by inspecting feature values]()
+  - [Checking the data by inspecting feature values](https://github.com/scenthr/sasa-pavkovic-portfolio/blob/master/check-data-feature-values/check-data-feature-values.ipynb)
 
 ##### 6. Transform - Change the data into something your program will understand
-  - [Encoding the categorical features]()
+  - [Encoding the categorical features](https://github.com/scenthr/sasa-pavkovic-portfolio/blob/master/encoding-categorical-features/encoding-categorical-features.ipynb)
   - [Scaling and normalizing the features]()
   - [Using data pipelines for data transformation]()
 
