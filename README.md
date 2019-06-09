@@ -22,8 +22,8 @@ Project portfolio is organized so that there are smaller projects organized into
   - [Storing and retrieving imported data into a RDBMs](https://github.com/scenthr/sasa-pavkovic-portfolio/blob/master/storing-retrieving-data-sql-lite/storing-retrieving-data-sql-lite.ipynb)
 
 ##### 3. Extract - Get the data from the data store
-  - [Aggregating and extracting data from RDBMS]()
-  - [Retrieving data from AWS S3 bucket]()
+  - [Aggregating and extracting data from RDBMS](https://github.com/scenthr/sasa-pavkovic-portfolio/blob/master/storing-retrieving-data-sql-lite/extracting-aggreg-from-rdbms.ipynb)
+  - [Retrieving data from AWS S3 bucket]() - will be prepared later
 
 ##### 4. Organize - Organize the data into usable subsets
 
