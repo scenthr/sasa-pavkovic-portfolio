@@ -33,10 +33,10 @@ Project portfolio is organized so that there are smaller projects organized into
 ##### 6. Transform - Change the data into something your program will understand
   - [Encoding the categorical features](https://github.com/scenthr/sasa-pavkovic-portfolio/blob/master/encoding-categorical-features/encoding-categorical-features.ipynb)
   - [Scaling and normalizing the features](https://github.com/scenthr/sasa-pavkovic-portfolio/blob/master/scaling-normalizing-features/scaling-normalizing-features.ipynb)
-  - [Using data pipelines for data transformation]()
+  - [Using data pipelines for data transformation]() will be prepared with predict future sales project!
 
 ##### 7. Visualize - Descriptive statistics exploration
-  - [Looking at some feature relationships]()
+  - [Looking at some feature relationships](https://github.com/scenthr/sasa-pavkovic-portfolio/blob/master/explore-feature-realionships/explore-feature-realionships.ipynb)
 
 ##### 8. Model - Stats + Machine Learning + Expriment designed
   - [Choosing the variables to use in a model]()
