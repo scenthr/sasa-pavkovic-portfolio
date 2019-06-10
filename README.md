@@ -36,7 +36,7 @@ Project portfolio is organized so that there are smaller projects organized into
   - [Using data pipelines for data transformation]() will be prepared with predict future sales project!
 
 ##### 7. Visualize - Descriptive statistics exploration
-  - [Looking at some feature relationships](https://github.com/scenthr/sasa-pavkovic-portfolio/blob/master/explore-feature-realionships/explore-feature-realionships.ipynb)
+  - [Looking at some feature relationships](https://github.com/scenthr/sasa-pavkovic-portfolio/blob/master/explore-feature-relationships/explore-feature-relationships.ipynb)
 
 ##### 8. Model - Stats + Machine Learning + Expriment designed
   - [Choosing the variables to use in a model]()
