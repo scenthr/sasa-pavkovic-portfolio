@@ -39,7 +39,7 @@ Project portfolio is organized so that there are smaller projects organized into
   - [Looking at some feature relationships](https://github.com/scenthr/sasa-pavkovic-portfolio/blob/master/explore-feature-relationships/explore-feature-relationships.pdf)
 
 ##### 8. Model - Stats + Machine Learning + Expriment designed
-  - [Choosing the variables to use in a model]()
+  - [Choosing the variables to use in a model](https://github.com/scenthr/sasa-pavkovic-portfolio/blob/master/choosing-variables-regression/choosing-variables-regression.ipynb)
   - [Selecting the relevant metric for the approach used]()
   - [Solving the problem with different algorithms]()
   - [Tuning the hyperparameters of a model]()
