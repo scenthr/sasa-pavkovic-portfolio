@@ -40,8 +40,9 @@ Project portfolio is organized so that there are smaller projects organized into
 
 ##### 8. Model - Stats + Machine Learning + Expriment designed
   - Choosing the variables to use in a model
+    - [Regresssion](https://github.com/scenthr/sasa-pavkovic-portfolio/blob/master/choosing-variables-regression/choosing-variables-regression.ipynb)
+  - Selecting the relevant metrics
     - [Regression](https://github.com/scenthr/sasa-pavkovic-portfolio/blob/master/selecting-relevant-metrics/selecting-relevant-metrics-regression.ipynb)
-  - [Selecting the relevant metric for regression]()
   - [Solving the problem with different algorithms]()
   - [Tuning the hyperparameters of a model]()
   - [Evaluating competing models and choosing the optimal one]()
