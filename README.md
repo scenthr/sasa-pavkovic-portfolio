@@ -6,7 +6,7 @@ I am a Data Scientist with the background in Computer Science and Mathematics an
 
 Specifically, i use data science and machine learning to solve problems and generate business insights in customer growth and retention using SQL and Python (numpy, pandas, scikit-learn, etc.).
 
-The data science project portfolio is composed of 17 projects and articles covering the full specturm of the data science process.
+The data science project portfolio is composed of 18 projects and articles covering the full specturm of the data science process.
 
 This portfolio's projects apply machine learning within a data science context to provide value to E-commerce using statistical inference, regression, classification, clustering and prinicipal component analysis.
 
