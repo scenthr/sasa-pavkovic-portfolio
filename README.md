@@ -39,6 +39,7 @@ Project portfolio is organized so that there are smaller projects organized into
     - [Regresssion](https://github.com/scenthr/sasa-pavkovic-portfolio/blob/master/choosing-variables-regression/choosing-variables-regression.ipynb)
   - Selecting relevant metrics
     - [Regression](https://github.com/scenthr/sasa-pavkovic-portfolio/blob/master/selecting-relevant-metrics/selecting-relevant-metrics-regression.ipynb)
+    - [Classification](https://github.com/scenthr/sasa-pavkovic-portfolio/blob/master/selecting-relevant-metrics/selecting-relevant-metrics-classification.ipynb) 
   - [Solving the problem with different algorithms](https://github.com/scenthr/sasa-pavkovic-portfolio/blob/master/solving-different-algorithms/solving-different-algorithms.ipynb)
   - [Tuning the hyperparameters of a model](https://github.com/scenthr/sasa-pavkovic-portfolio/blob/master/hyperparameter-tuning/hyperparameter-tuning.ipynb)
   - [Deploying the model into production](https://github.com/scenthr/sasa-pavkovic-portfolio/blob/master/deploying-model/deploying-model-overview.ipynb)
