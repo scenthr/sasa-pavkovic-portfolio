@@ -37,9 +37,10 @@ Project portfolio is organized so that there are smaller projects organized into
 ##### Model
   - Choosing variables to use in a model
     - [Regresssion](https://github.com/scenthr/sasa-pavkovic-portfolio/blob/master/choosing-variables-regression/choosing-variables-regression.ipynb)
+    - [Classification](https://github.com/scenthr/sasa-pavkovic-portfolio/blob/master/choosing-variables-classification/choosing-variables-classification.ipynb)
   - Selecting relevant metrics
     - [Regression](https://github.com/scenthr/sasa-pavkovic-portfolio/blob/master/selecting-relevant-metrics/selecting-relevant-metrics-regression.ipynb)
-    - [Classification](https://github.com/scenthr/sasa-pavkovic-portfolio/blob/master/selecting-relevant-metrics/selecting-relevant-metrics-classification.ipynb) 
+    - [Classification](https://github.com/scenthr/sasa-pavkovic-portfolio/blob/master/selecting-relevant-metrics/selecting-relevant-metrics-classification.ipynb)
   - [Solving the problem with different algorithms](https://github.com/scenthr/sasa-pavkovic-portfolio/blob/master/solving-different-algorithms/solving-different-algorithms.ipynb)
   - [Tuning the hyperparameters of a model](https://github.com/scenthr/sasa-pavkovic-portfolio/blob/master/hyperparameter-tuning/hyperparameter-tuning.ipynb)
   - [Deploying the model into production](https://github.com/scenthr/sasa-pavkovic-portfolio/blob/master/deploying-model/deploying-model-overview.ipynb)
@@ -56,8 +57,6 @@ Project portfolio is organized so that there are smaller projects organized into
 ##### Next projects planned
   - Using Apache Spark for model evaluation
   - Using data pipelines for data transformation
-  - Selecting relevant metrics - classification
-  - Choosing variables to use in the model - classification
   - add section Algorithms
 
 ### End-to-end projects
@@ -66,7 +65,7 @@ Here are several of the end-to-end projects:
 
 I. [**Predicting Future Sales**](https://github.com/scenthr/sasa-pavkovic-portfolio/blob/master/end-to-end-projects/predict-future-sales/predict-future-sales.ipynb)
 
-II. [**Coming soon**]
+II. [**Coming soon**] -> Default of credit card clients
 
 III. [**Coming soon**]
 
