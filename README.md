@@ -16,13 +16,13 @@ Project portfolio is organized so that there are smaller projects organized into
 
 ##### Import
 
-  - <a href="https://github.com/scenthr/sasa-pavkovic-portfolio/blob/master/panda-import-structured-data/pandas-import-structured-data.ipynb" target="_blank">Using pandas to import data</a>
+  - <a href="https://github.com/scenthr/sasa-pavkovic-portfolio/blob/master/pandas-import-structured-data/pandas-import-structured-data.ipynb" target="_blank">Using pandas to import data</a>
 
 ##### Store
   - [Storing and retrieving imported data into a RDBMs](https://github.com/scenthr/sasa-pavkovic-portfolio/blob/master/storing-retrieving-data-sql-lite/storing-retrieving-data-sql-lite.ipynb)
 
 ##### Extract
-  - [Aggregating and extracting data from RDBMS](https://github.com/scenthr/sasa-pavkovic-portfolio/blob/master/storing-retrieving-data-sql-lite/extracting-aggreg-from-rdbms.ipynb)
+  - [Aggregating and extracting data from RDBMS](https://github.com/scenthr/sasa-pavkovic-portfolio/blob/master/storing-retrieving-data-sql-lite/storing-retrieving-data-sql-lite.ipynb)
 
 ##### Clean the data
   - [Checking the data by inspecting feature values](https://github.com/scenthr/sasa-pavkovic-portfolio/blob/master/check-data-feature-values/check-data-feature-values.ipynb)
@@ -45,7 +45,7 @@ Project portfolio is organized so that there are smaller projects organized into
   - [Tuning the hyperparameters of a model](https://github.com/scenthr/sasa-pavkovic-portfolio/blob/master/hyperparameter-tuning/hyperparameter-tuning.ipynb)
   - [Deploying the model into production](https://github.com/scenthr/sasa-pavkovic-portfolio/blob/master/deploying-model/deploying-model-overview.ipynb)
     - [Exposing a solution as an API](https://github.com/scenthr/sasa-pavkovic-portfolio/blob/master/deploying-model/Flask-REST-API)
-    - [Storing the results of a model into RDBMs](https://github.com/scenthr/sasa-pavkovic-portfolio/blob/master/deploying-model/model-results-to-rdbms.ipynb)
+    - [Storing the results of a model into RDBMs](https://github.com/scenthr/sasa-pavkovic-portfolio/blob/master/deploying-model/model-results-to-rdbms/model-results-to-rdbms.ipynb)
 
 ##### Communicate
   - [Presenting key insights for executive management](https://github.com/scenthr/sasa-pavkovic-portfolio/blob/master/presenting-key-insights/presenting-key-insights.ipynb)
