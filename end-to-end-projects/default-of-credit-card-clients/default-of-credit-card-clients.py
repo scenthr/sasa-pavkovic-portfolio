@@ -28,7 +28,6 @@ from sklearn.neighbors import KNeighborsClassifier
 from sklearn.svm import SVC
 from sklearn.ensemble import GradientBoostingClassifier
 from xgboost import XGBClassifier
-from sklearn.svm import SVC
 
 
 # Load the dataset from excel file
@@ -250,7 +249,7 @@ coefficients = pd.concat([pd.DataFrame(X_test.columns),pd.DataFrame(np.transpose
 
 coefficients
 
-plotLearningCurve(X_train, y_train, model)
+# plotLearningCurve(X_train, y_train, model)   # not relevant for this algorithm
 
 '''
 ----------------------
