@@ -65,7 +65,7 @@ Here are several of the end-to-end projects:
 
 I. [**Predicting Future Sales**](https://github.com/scenthr/sasa-pavkovic-portfolio/blob/master/end-to-end-projects/predict-future-sales/predict-future-sales.ipynb)
 
-II. [**Coming soon**] -> Default of credit card clients
+II. [**Default of Credit Card Clients**](https://github.com/scenthr/sasa-pavkovic-portfolio/blob/master/end-to-end-projects/default-of-credit-card-clients/default-of-credit-card-clients.ipynb)
 
 III. [**Coming soon**]
 
